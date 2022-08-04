@@ -2,6 +2,50 @@
 ### Simple Calculator 
 It is a level 1 project and the program for calculator is included in [calculator.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/calculator.py)
 
+Output:
+```
+       Calculator
+    :::::::::::::::::
+
+ Select One Operation:
+For addition→ Enter 1
+For subtraction→ Enter 2
+For multiplication→ Enter 3
+For division→ Enter 4
+For X^n→ Enter 5
+For logarithm→ Enter 6
+For natural logarithm→ Enter 7
+For nCr→ Enter 8
+For nPr→ Enter 9
+For e^x→ Enter 10
+    
+Enter operation:1
+        Addition
+Enter First Number:56
+Enter Second Number:45
+
+ 56 + 45 = 101
+Do you want to continue?(1-Yes/0-No):1
+Enter operation:4
+        Division
+Enter First Number:45
+Enter Second Number:5
+
+ 45 / 5 = 9.0
+Do you want to continue?(1-Yes/0-No):1
+Enter operation:8
+        Combination(nCr)
+Enter Number(n):4
+Enter Number(r):2
+Result : 6.0
+Do you want to continue?(1-Yes/0-No):1
+Enter operation:10
+        Exponential
+Enter Number:6
+Result is: 403.4287934927351
+Do you want to continue?(1-Yes/0-No):0
+```
+
 ### Number Guessing 
 It is a level 2 project and the program for number guessing game is included in [numberguess.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/numberguess.py)
 

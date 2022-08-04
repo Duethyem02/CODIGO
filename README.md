@@ -1,8 +1,8 @@
 # CODIGO
-### Simple Calculator 
+## Simple Calculator 
 It is a level 1 project and the program for calculator is included in [calculator.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/calculator.py)
 
-###### Output:
+##### Output:
 ```
        Calculator
     :::::::::::::::::
@@ -46,10 +46,10 @@ Result is: 403.4287934927351
 Do you want to continue?(1-Yes/0-No):0
 ```
 
-### Number Guessing 
+## Number Guessing 
 It is a level 2 project and the program for number guessing game is included in [numberguess.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/numberguess.py)
 
-###### Output:
+##### Output:
 ```
                 GUESS THE HIDDEN
         Start Playing By Guessing !!!

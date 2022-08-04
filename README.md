@@ -1,4 +1,6 @@
 # CODIGO
+### Simple Calculator 
+It is a level 1 project and the program for calculator is included in [calc.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/calc.py)
 
 ### Number Guessing 
 It is a level 2 project and the program for number guessing game is included in [numberguess.py](https://github.com/Duethyem02/CODIGO_Project/blob/main/numberguess.py)
